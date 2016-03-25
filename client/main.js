@@ -8,3 +8,4 @@ Template.body.helpers({
   hello,
   info
 });
+ViewModel.persist = false;
