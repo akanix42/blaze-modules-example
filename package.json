@@ -1,0 +1,13 @@
+{
+  "name": "blaze-modules-example",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  },
+  "cssModules": {
+    "extensions": ["m.css"]
+  }
+}
