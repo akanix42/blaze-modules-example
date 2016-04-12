@@ -1,3 +1,12 @@
 <component name="message">
-  <div>This message is from a locally loaded "component".</div>
+  <div>&gt;This message is from a locally loaded "component". The first component in the file is exported both by name and as the default export.</div>
+  {{>nested}}
+</component>
+
+<component name="message_two">
+  <div>&gt;All other components, like this one, are exported by name!</div>
+</component>
+
+<component name="nested">
+  <div>&gt;This component is automatically accessible by the components above it!</div>
 </component>

@@ -1,9 +1,10 @@
 import hello from './hello.html';
 import styles from './hello.m.css';
-import message from './message.html';
+import message, {message_two} from './message.html';
 
 hello.helpers({
   message,
+  message_two
 });
 
 hello.viewmodel({
