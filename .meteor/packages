@@ -18,6 +18,6 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
-nathantreid:css-modules@1.0.0-beta.9
+nathantreid:css-modules@2.0.2
 manuel:viewmodel
 nathantreid:blaze-modules
