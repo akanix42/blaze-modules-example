@@ -5,9 +5,12 @@
     "start": "meteor run"
   },
   "dependencies": {
+    "babel-runtime": "^6.26.0",
     "meteor-node-stubs": "~0.2.0"
   },
   "cssModules": {
-    "extensions": ["m.css"]
+    "extensions": [
+      "m.css"
+    ]
   }
 }
