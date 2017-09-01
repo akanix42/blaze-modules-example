@@ -53,11 +53,11 @@ modules@0.9.4
 modules-runtime@0.8.0
 mongo@1.1.22
 mongo-id@1.0.6
-nathantreid:blaze-modules@0.0.7
-nathantreid:caching-html-compiler@0.0.7
+nathantreid:blaze-modules@0.0.8
+nathantreid:caching-html-compiler@0.0.8
 nathantreid:css-modules@2.7.3
-nathantreid:templating-components@0.0.7
-nathantreid:templating-tools@0.0.5
+nathantreid:templating-components@0.0.8
+nathantreid:templating-tools@0.0.6
 nathantreid:templating-wrapper@0.0.3
 npm-mongo@2.2.30
 observe-sequence@1.0.16
